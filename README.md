@@ -14,5 +14,33 @@ Custom Assets: Enhanced with curated assets for a polished look.
 📷 Preview
 ![Spotify Clone Preview](./screenshots/preview.png)  
 
+🛠️ Technologies Used
+HTML5
+CSS3
+Google Fonts
+
+📂 Folder Structure
+/  
+├── index.html      # Main HTML file  
+├── css/            # Folder containing CSS files  
+│   └── styles.css  # Main stylesheet  
+├── assets/         # Folder containing images and other assets  
+├── screenshots/    # Folder containing project screenshots  
+│   └── preview.png # Screenshot of the project preview  
+└── README.md       # Project documentation  
+
+
+🌟 How to Run Locally
+
+1. Clone the repository:
+ git clone https://github.com/your-username/spotify-clone.git
+2. Navigate to the project directory:
+   cd responsive-spotify-clone
+3. Open index.html in your browser to view the project.
+
+
+
+
+
 
 
