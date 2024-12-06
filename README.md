@@ -38,6 +38,12 @@ Google Fonts
    cd responsive-spotify-clone
 3. Open index.html in your browser to view the project.
 
+   🤝 Contributions
+Contributions are welcome! Feel free to fork the repository, create a new branch, and submit a pull request with your improvements.
+
+📧 Contact
+For any questions or suggestions, feel free to contact me at [adarsh99dev@gmail.com].
+
 
 
 
